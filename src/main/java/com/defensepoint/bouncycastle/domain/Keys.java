@@ -1,6 +1,7 @@
 package com.defensepoint.bouncycastle.domain;
 
 public class Keys {
+    
     private byte[] privateKey;
     private byte[] publicKey;
 
