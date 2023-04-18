@@ -9,5 +9,4 @@ public class BouncycastleApplication {
     public static void main(String[] args) {
         SpringApplication.run(BouncycastleApplication.class, args);
     }
-
 }
